@@ -24,10 +24,6 @@ embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
 
 #Trying to run llm hosted on HuggingFace:
 
-mistral_llm = HuggingFaceInferenceAPI(
-    model_name="mistralai/Mistral-7B-v0.1", token= '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'
-)
-
 #Possible questions to ask:
 # What is contract cheating?
 # What are the password policies at the university?
