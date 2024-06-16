@@ -47,7 +47,7 @@ col1, col2 = st.columns([3, 1])
 with col1:
     st.title('MQ Policy Assistant 🔍')
 with col2:
-    st.image("/Users/mahit/Documents/Uni/Year 4 Sem 1/COMP4060/CPD/image/MQLogo.png", use_column_width=True)
+    st.image("./image/MQLogo.png", use_column_width=True)
 
        
 # Initialize chat messages history
