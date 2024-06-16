@@ -1,0 +1,5 @@
+streamlit
+requests
+llama-index
+PyPDF2
+transformers
